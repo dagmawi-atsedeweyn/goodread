@@ -1,5 +1,5 @@
 # goodread
-This is a script i used for CTF to find a specific book on goodread read by a specific person.
+python script to find a specific book on goodread read by a specific person.
 
 #osint
-you can change the user data and date used in the program
+you can change the user data and date used in the program.
